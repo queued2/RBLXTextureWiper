@@ -6,3 +6,6 @@ A free and open-source batch script for Windows that helps manage textures on Ro
 * Good for managing your textures between Roblox bootstrappers
 * Good for debloating or cutting-down on textures after the FFlag Patch ([https://devforum.roblox.com/t/allowlist-for-local-client-configuration-via-fast-flags/3966569](https://devforum.roblox.com/t/allowlist-for-local-client-configuration-via-fast-flags/3966569))
 * Very lightweight (4kb), supports most popular GUI bootstrappers as of right now
+
+- Example of it working:
+https://github.com/queued2/RBLXTextureWiper/blob/main/No%20Textures.png?raw=true
