@@ -8,6 +8,6 @@ A free and open-source batch script for Windows that helps manage textures on Ro
 * Very lightweight (4kb), supports most popular GUI bootstrappers as of right now
 
 
-## Proof it works
+## Proof it works (no stud textures on baseplate game)
 ![No Textures Demo](https://github.com/queued2/RBLXTextureWiper/blob/main/No%20Textures.png?raw=true)
 
